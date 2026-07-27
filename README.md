@@ -1,3 +1,4 @@
+![CI PyTest - API Automation](https://github.com/eumesmooliveira/automacao-api-pytest/actions/workflows/pytest.yml/badge.svg)
 # 🚀 Automação de Testes de API - Python, PyTest & Requests
 
 Framework de automação de testes de API desenvolvido para validação de serviços REST, assegurando contratos, códigos de status e cenários de sucesso/erro com alto padrão de qualidade técnica.
